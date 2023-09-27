@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ho3ein010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ho3ein010/ho3ein010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center" dir="auto">
+  <samp>
+    Hi! I'm currently programmer<a href="https://https://www.w3schools.com/whatis/whatis_frontenddev.asp/" rel="nofollow">Front end</a>,
+    <br>contributing to Better user interaction with your web pages
+  </samp>
+</p>
